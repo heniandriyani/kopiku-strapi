@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_menu_page_menus",
+  "info": {
+    "displayName": "page_menu",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "menu": {
+      "type": "string"
+    }
+  }
+}
